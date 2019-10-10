@@ -1,0 +1,3 @@
+@function rem($font) {
+  @return ($font/100)+rem
+}
